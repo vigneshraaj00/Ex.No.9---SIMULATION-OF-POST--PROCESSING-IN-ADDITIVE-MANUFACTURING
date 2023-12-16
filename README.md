@@ -39,6 +39,8 @@
 ![image](https://github.com/Gchethankumar/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118348224/2b965631-884e-494e-8902-49bebf91b50e)
 ![image](https://github.com/Gchethankumar/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118348224/266eb509-2c58-41f4-839b-e56fedff517c)
 
+## OUTPUT :
+![image](https://github.com/Gchethankumar/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118348224/266eb509-2c58-41f4-839b-e56fedff517c)
 
 
 
