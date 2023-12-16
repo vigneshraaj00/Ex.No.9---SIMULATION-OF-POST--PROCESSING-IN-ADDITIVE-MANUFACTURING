@@ -44,8 +44,8 @@
 
 
 
-### Name:T.Ajay
-### Register Number:212223230007
+### Name:vignesh raaj s
+### Register Number:23005346
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
